@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm c0el</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An aspiring DevOps engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0el&label=Profile%20views&color=0e75b6&style=flat" alt="c0el" /> </p>
 
